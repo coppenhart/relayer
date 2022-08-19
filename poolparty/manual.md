@@ -12,6 +12,7 @@
 2. **Download configuration file**
 
     ```shell
+    mkdir -p $HOME/.relayer/config/
     wget -qO $HOME/.relayer/config/config.yaml "https://github.com/coppenhart/relayer/raw/main/poolparty/config.yaml"
     ```
    
