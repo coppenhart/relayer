@@ -1,7 +1,7 @@
 global:
     api-listen-addr: :5183
     timeout: 10s
-    memo: deadsea#6086
+    memo: ""
     light-cache-size: 20
 chains:
     gaia:
