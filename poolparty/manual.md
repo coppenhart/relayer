@@ -4,8 +4,9 @@
 
     ```shell
     git clone https://github.com/cosmos/relayer.git
+    cd relayer
     git checkout v2.0.0
-    cd relayer && make install
+    make install
     ```
    
 2. **Download configuration file**
